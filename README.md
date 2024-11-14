@@ -21,11 +21,11 @@ The more intense the exercise (like running), the faster your heart beats to pum
     - **Line Plot**: Shows the relationship between the year of discovery and planet mass.
     - **Histogram**: Shows the distribution of orbital periods.
     - **Box Plot**: Shows the distribution of planet mass by detection method.
-    - **Count Plot**: Shows the number of planets discovered per year.
+    - **Bar Plot**: Shows the number of planets discovered yearly.
     - **Violin Plot**: Shows the average orbital period for each detection method.
     - 
-**vrrrvr**
-
+**Provide a brief explanation about which graph(s) you feel best to demonstrate something notable about the data and how it is illustrated.**
+The scatter and bar plots best demonstrate something notable about the data. The scatter plot shows the relationship between distance and orbital period. The scatter graph highlights how different detection methods cluster around specific ranges of distance and orbital periods. For example, methods like Radial Velocity and Transit show a concentration at shorter distances and orbital periods. Also, each detection method is represented by a distinct color, making it easy to differentiate and compare their distributions. Furthermore, the bar plot shows the number of planets discovered yearly. The graph shows a marked increase in the number of planets discovered per year from 1989 to 2014, emphasizing how technological advancements and focused efforts in astronomy have paid off. Finally, each bar represents the count of planets discovered in a given year, making it easy to compare year-over-year changes.
 
 ### Methods and Attributes
 
