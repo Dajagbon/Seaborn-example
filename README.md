@@ -14,7 +14,7 @@ This project does not use custom classes; instead, it focuses on using functions
     - **Categorical Plot**: Shows pulse values by diet type and exercise type.
     - 
 **Briefly explain what conclusions can be drawn from the data given to the elementary school students**
-The more intense the exercise (like running), the faster your heart beats to pump blood and oxygen to your muscles. Understanding how exercise affects your heart rate can help you understand the importance of staying active and healthy. We noticed that the type of diet can also affect your heart rate. For example, eating a low-fat or no-fat diet can change how your heart responds to exercise. Both diets showed that running increased the pulse the most, but the pulse was slightly higher for the no-fat diet when running.
+The more intense the exercise (like running), the faster your heart beats to pump blood and oxygen to your muscles. Understanding how exercise affects your heart rate can help you understand the importance of staying active and healthy. I also noticed that the type of diet can also affect your heart rate. For example, eating a low-fat or no-fat diet can change how your heart responds to exercise. Both diets showed that running increased the pulse the most, but the pulse was slightly higher for the no-fat diet when running.
 
 2. **Planets Data Visualization**:
     - **Scatter Plot**: Shows the relationship between distance and orbital period.
