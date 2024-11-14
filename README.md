@@ -12,7 +12,7 @@ This project does not use custom classes; instead, it focuses on using functions
 1. **Exercise Data Visualization**:
     - **Heatmap**: Visualizes pulse data by exercise type and time.
     - **Categorical Plot**: Shows pulse values by diet type and exercise type.
-    - 
+
 **Briefly explain what conclusions can be drawn from the data given to the elementary school students**
 The more intense the exercise (like running), the faster your heart beats to pump blood and oxygen to your muscles. Understanding how exercise affects your heart rate can help you understand the importance of staying active and healthy. I also noticed that the type of diet can also affect your heart rate. For example, eating a low-fat or no-fat diet can change how your heart responds to exercise. Both diets showed that running increased the pulse the most, but the pulse was slightly higher for the no-fat diet when running.
 
@@ -23,7 +23,7 @@ The more intense the exercise (like running), the faster your heart beats to pum
     - **Box Plot**: Shows the distribution of planet mass by detection method.
     - **Bar Plot**: Shows the number of planets discovered yearly.
     - **Violin Plot**: Shows the average orbital period for each detection method.
-    - 
+      
 **Provide a brief explanation about which graph(s) you feel best to demonstrate something notable about the data and how it is illustrated.**
 The scatter and bar plots best demonstrate something notable about the data. The scatter plot shows the relationship between distance and orbital period. The scatter graph highlights how different detection methods cluster around specific ranges of distance and orbital periods. For example, methods like Radial Velocity and Transit show a concentration at shorter distances and orbital periods. Also, each detection method is represented by a distinct color, making it easy to differentiate and compare their distributions. Furthermore, the bar plot shows the number of planets discovered yearly. The graph shows a marked increase in the number of planets discovered per year from 1989 to 2014, emphasizing how technological advancements and focused efforts in astronomy have paid off. Finally, each bar represents the count of planets discovered in a given year, making it easy to compare year-over-year changes.
 
