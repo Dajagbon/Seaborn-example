@@ -21,7 +21,7 @@ The more intense the exercise (like running), the faster your heart beats to pum
     - **Line Plot**: Shows the relationship between the year of discovery and planet mass.
     - **Histogram**: Shows the distribution of orbital periods.
     - **Box Plot**: Shows the distribution of planet mass by detection method.
-    - **Count Plot**: Shows the number of planets discovered per year.
+    - **Bar Plot**: Shows the number of planets discovered per year.
     - **Violin Plot**: Shows the average orbital period for each detection method.
 
 **Provide a brief explanation about which graph(s) you feel best to demonstrate something notable about the data and how it is illustrated.**
@@ -238,7 +238,7 @@ plt.show()
 
 : Displays the plot.
 
-- **Count Plot**:
+- **Bar Plot**:
     - 
 
 plt.figure(figsize=(10, 6))
@@ -248,12 +248,12 @@ plt.figure(figsize=(10, 6))
 
 sns.countplot(data=planets, x='year')
 
-: Creates a count plot with year on the x-axis and count on the y-axis.
+: Creates a bar plot with the year on the x-axis and count on the y-axis.
     - 
 
 plt.title('Number of Planets Discovered per Year')
 
-: Sets the title of the count plot.
+: Sets the title of the bar plot.
     - 
 
 plt.xlabel('Year')
