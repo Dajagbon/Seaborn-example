@@ -1,5 +1,4 @@
-# Assignment-9-Seaborn
-# Project Title: Data Visualization with Seaborn
+Data Visualization with Seaborn
 
 ## Purpose
 This project demonstrates various data visualization techniques using the Seaborn library in Python. It includes examples of relational, distributional, and categorical plots to analyze and visualize datasets effectively. The primary datasets used in this project are a custom exercise dataset and the built-in planets dataset from Seaborn.
